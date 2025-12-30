@@ -23,7 +23,7 @@ repository               : "romankalkreuth/romankalkreuth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rkalkreuth.png"
   name             : "Roman Kalkreuth"
   pronouns         : # example: "she/her"  
   bio              : "Roman Kalkreuth is an assistant professor at RWTH Aachen University in Aachen, Germany. Primarily, his research focuses on the analysis and development of algorithms for graph-based genetic programming."
