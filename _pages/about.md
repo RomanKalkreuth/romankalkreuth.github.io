@@ -8,3 +8,10 @@ redirect_from:
 ---
 
 
+## Main research interests
+
+* Genetic Programming
+  * Graph Representations and Variation
+* Benchmarking
+  * Logic Synthesis
+  * Policy Learning 
