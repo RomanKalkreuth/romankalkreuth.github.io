@@ -25,5 +25,5 @@ Selection of 10 publications that reflect my research scope. More information on
 
 * Kirill Antonov, Roman Kalkreuth, Kaifeng Yang, Thomas Bäck, Niki van Stein, & Anna V. Kononova (2024). A Functional Analysis Approach to Symbolic Regression. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2024. ACM.
 
-* Kalkreuth, R., França, F., Jankovic, A., Anastacio, M., Dierkes, J., Vasicek, Z., & Hoos, H. (2025). TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, GECCO 2025. ACM.
+* Roman Kalkreuth, Fabricio Olivetti de França, Anja Jankovic, Marie Anastacio, Julian Dierkes, Zdenek Vasicek, & Holger Hoos (2025). TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, GECCO 2025. ACM.
 
