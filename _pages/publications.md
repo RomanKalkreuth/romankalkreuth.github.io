@@ -11,11 +11,11 @@ Selection of 10 publications that reflect my research scope. More information on
 
 * Jakub Husa, & Roman Kalkreuth (2018). A Comparative Study on Crossover in Cartesian Genetic Programming. In Genetic Programming - 21st European Conference, EuroGP 2018. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-77553-1_13)
 
-* Léo Françoso Dal Piccol Sotto, Paul Kaufmann, Timothy Atkinson, Roman Kalkreuth, & Márcio Porto Basgalupp (2020). A study on graph representations for genetic programming. In GECCO '20: Genetic and Evolutionary Computation Conference. ACM.
+* Léo Françoso Dal Piccol Sotto, Paul Kaufmann, Timothy Atkinson, Roman Kalkreuth, & Márcio Porto Basgalupp (2020). A study on graph representations for genetic programming. In GECCO '20: Genetic and Evolutionary Computation Conference. ACM. [link](https://dl.acm.org/doi/10.1145/3377930.3390234)
 
-* Léo Françoso Dal Piccol Sotto, Paul Kaufmann, Timothy Atkinson, Roman Kalkreuth, & Márcio Porto Basgalupp (2021). Graph representations in genetic programming. Genet. Program. Evolvable Mach., 22(4). Springer.
+* Léo Françoso Dal Piccol Sotto, Paul Kaufmann, Timothy Atkinson, Roman Kalkreuth, & Márcio Porto Basgalupp (2021). Graph representations in genetic programming. Genet. Program. Evolvable Mach., 22(4). Springer. [link](https://link.springer.com/article/10.1007/s10710-021-09413-9)
 
-* Roman Kalkreuth (2021). Reconsideration and extension of Cartesian genetic programming. (Doctoral dissertation, Technical University of Dortmund, Germany).
+* Roman Kalkreuth (2021). Reconsideration and extension of Cartesian genetic programming. (Doctoral dissertation, Technical University of Dortmund, Germany). [link](https://mms3.ub.tu-dortmund.de/work/306544)
 
 * Roman Kalkreuth (2022). Towards Discrete Phenotypic Recombination in Cartesian Genetic Programming. In Parallel Problem Solving from Nature - PPSN XVII - 17th International Conference, PPSN 2022, Proceedings, Part II. Springer.
 
