@@ -15,7 +15,10 @@ Assistant professor (Akademischer Rat) at [RWTH Aachen University](https://www.r
 
 * Genetic Programming
   * Graph representations and variation operators
-  * Theoretical and empirical foundations 
+  * Theoretical and empirical foundations
+  * Algorithm configuration
 * Benchmarking metaheuristics
+  * Symbolic regression
   * Logic synthesis
   * Policy learning
+    
