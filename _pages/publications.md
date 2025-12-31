@@ -7,9 +7,9 @@ author_profile: true
 
 Selection of 10 publications that reflect my research scope. More information on my publication history can be obtained on [Google scholar](https://scholar.google.com/citations?user=F07Th5gAAAAJ&hl=en).
 
-* Roman Kalkreuth, Günter Rudolph, & Andre Droschinsky (2017). A New Subgraph Crossover for Cartesian Genetic Programming. In Genetic Programming - 20th European Conference, EuroGP 2017. Springer. 
+* Roman Kalkreuth, Günter Rudolph, & Andre Droschinsky (2017). A New Subgraph Crossover for Cartesian Genetic Programming. In Genetic Programming - 20th European Conference, EuroGP 2017. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-55696-3_19)
 
-* Jakub Husa, & Roman Kalkreuth (2018). A Comparative Study on Crossover in Cartesian Genetic Programming. In Genetic Programming - 21st European Conference, EuroGP 2018. Springer.
+* Jakub Husa, & Roman Kalkreuth (2018). A Comparative Study on Crossover in Cartesian Genetic Programming. In Genetic Programming - 21st European Conference, EuroGP 2018. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-77553-1_13)
 
 * Léo Françoso Dal Piccol Sotto, Paul Kaufmann, Timothy Atkinson, Roman Kalkreuth, & Márcio Porto Basgalupp (2020). A study on graph representations for genetic programming. In GECCO '20: Genetic and Evolutionary Computation Conference. ACM.
 
