@@ -7,7 +7,7 @@ author_profile: true
 
 Selection of 10 publications that reflect my research scope. More information on my publication history can be obtained on [Google scholar](https://scholar.google.com/citations?user=F07Th5gAAAAJ&hl=en).
 
-* Roman Kalkreuth, Günter Rudolph, & Andre Droschinsky (2017). A New Subgraph Crossover for Cartesian Genetic Programming. In Genetic Programming - 20th European Conference, EuroGP 2017. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-55696-3_19)
+* Roman Kalkreuth, Günter Rudolph, & Andre Droschinsky (2017). A New Subgraph Crossover for Cartesian Genetic Programming. In Genetic Programming - 20th European Conference, EuroGP 2017. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-55696-3_19) 
 
 * Jakub Husa, & Roman Kalkreuth (2018). A Comparative Study on Crossover in Cartesian Genetic Programming. In Genetic Programming - 21st European Conference, EuroGP 2018. Springer. [link](https://link.springer.com/chapter/10.1007/978-3-319-77553-1_13)
 
@@ -21,9 +21,9 @@ Selection of 10 publications that reflect my research scope. More information on
 
 * Roman Kalkreuth, Zdenek Vasícek, Jakub Husa, Diederick Vermetten, Furong Ye, & Thomas Bäck (2023). General Boolean Function Benchmark Suite. In Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms, FOGA 2023. ACM. [link](https://dl.acm.org/doi/abs/10.1145/3594805.3607131)
 
-* Roman Kalkreuth, & Thomas Bäck (2024). CGP++ : A Modern C++ Implementation of Cartesian Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2024. ACM. [link](https://dl.acm.org/doi/10.1145/3638529.3654092)
+* Roman Kalkreuth, & Thomas Bäck (2024). CGP++ : A Modern C++ Implementation of Cartesian Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2024. ACM. [link](https://dl.acm.org/doi/10.1145/3638529.3654092) [arXiv](https://arxiv.org/pdf/2406.09038)
 
-* Kirill Antonov, Roman Kalkreuth, Kaifeng Yang, Thomas Bäck, Niki van Stein, & Anna V. Kononova (2024). A Functional Analysis Approach to Symbolic Regression. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2024. ACM. [link](https://dl.acm.org/doi/10.1145/3638529.3654079)
+* Kirill Antonov, Roman Kalkreuth, Kaifeng Yang, Thomas Bäck, Niki van Stein, & Anna V. Kononova (2024). A Functional Analysis Approach to Symbolic Regression. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2024. ACM. [link](https://dl.acm.org/doi/10.1145/3638529.3654079) &nbsp; [arXiv](https://arxiv.org/pdf/2402.06299) 
 
-* Roman Kalkreuth, Fabricio Olivetti de França, Anja Jankovic, Marie Anastacio, Julian Dierkes, Zdenek Vasicek, & Holger Hoos (2025). TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, GECCO 2025. ACM. [link](https://dl.acm.org/doi/10.1145/3712255.3726697)
+* Roman Kalkreuth, Fabricio Olivetti de França, Anja Jankovic, Marie Anastacio, Julian Dierkes, Zdenek Vasicek, & Holger Hoos (2025). TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, GECCO 2025. ACM. [link](https://dl.acm.org/doi/10.1145/3712255.3726697) &nbsp; [arXiv](https://arxiv.org/pdf/2504.10253)
 
